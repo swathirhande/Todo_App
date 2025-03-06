@@ -61,6 +61,14 @@ useEffect(() => {
 2️⃣ **Editing a Todo** – The user clicks "Edit," modifies the text, and saves the changes.  
 3️⃣ **Deleting a Todo** – Clicking "Delete" removes the task from Redux & localStorage.
 
+## 📸 Page Views
+
+### When no Todos are present:
+![No Todos Image](assets/no-todos.png)
+
+### When Todos are present:
+![Todos Present Image](assets/todos-present.png)
+
 ## 🤝 Contributing
 
 Want to improve this project? Follow these steps:
