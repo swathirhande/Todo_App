@@ -64,10 +64,10 @@ useEffect(() => {
 ## 📸 Page Views
 
 ### When no Todos are present:
-![No Todos Image](assets/no-todos.png)
+![No Todos Image](src/assets/no-todos.png)
 
 ### When Todos are present:
-![Todos Present Image](assets/todos-present.png)
+![Todos Present Image](src/assets/todos-present.png)
 
 ## 🤝 Contributing
 
