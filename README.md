@@ -57,8 +57,8 @@ useEffect(() => {
 ```
 ## 📜 How It Works
 
-1️⃣ **Adding a Todo** – The user enters text, and on submit, the task is stored in Redux & localStorage.
-2️⃣ **Editing a Todo** – The user clicks "Edit," modifies the text, and saves the changes.
+1️⃣ **Adding a Todo** – The user enters text, and on submit, the task is stored in Redux & localStorage.  
+2️⃣ **Editing a Todo** – The user clicks "Edit," modifies the text, and saves the changes.  
 3️⃣ **Deleting a Todo** – Clicking "Delete" removes the task from Redux & localStorage.
 
 ## 🤝 Contributing
